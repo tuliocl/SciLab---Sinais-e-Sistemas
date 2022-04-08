@@ -1,0 +1,14 @@
+function delta = impulso(t)
+delta=1*(t==0);
+endfunction
+
+function u = degrau(t)
+u=1*(t>=0);
+endfunction
+
+function r = rampa(t)
+r=t;
+endfunction
+
+intervalo = -1:4;
+plot(intervalo,-2*rampa(intervalo - 3).*(degrau(intervalo - 2) - degrau(intervalo - 3)));
