@@ -1,0 +1,6 @@
+function delta = impulso(t)
+delta=1*(t==0);
+endfunction
+
+intervalo = -1:4; 
+plot2d2(intervalo,impulso(intervalo - 2));
