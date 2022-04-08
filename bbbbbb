@@ -1,0 +1,10 @@
+function delta = impulso(t)
+delta=1*(t==0);
+endfunction
+
+function u = degrau(t)
+u=1*(t>=0);
+endfunction
+
+intervalo = -1:4;
+plot2d3(intervalo,degrau(intervalo - 2));
