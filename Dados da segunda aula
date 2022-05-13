@@ -1,0 +1,83 @@
+1-
+a)
+Val. pico = 100mv
+Val de pico a pico = 200mv
+Período = 10us
+Freq = 1/10 Hz
+
+b)
+Val. pico = 500mv
+Val de pico a pico = 2.000mv
+Período = 1.000us
+Freq = 1/1.000 Hz
+
+c)
+Val. pico = 1.000mv
+Val de pico a pico = 2.000mv
+Período = 2.000us
+Freq = 1/2.000Hz
+
+d)
+Val. pico = 100mv
+Val de pico a pico = 200mv
+Período = 10us
+Freq = 1/10Hz
+
+e)
+Val. pico = 1.000mv
+Val de pico a pico = 2.000mv
+Período: 900us
+Freq: 1/900Hz
+
+f)
+Val. pico = 1.000mv
+Val de pico a pico = 2.000mv
+Período: 2.000us
+Freq: 1/2.000Hz
+
+g)
+Val. pico = 100mv
+Val de pico a pico = 200mv
+Período: 10us
+Freq: 1/10Hz
+
+h)
+Val. pico = 1.000mv
+Val de pico a pico = 2.000mv
+Período: 1.000us
+Freq: 1/1.000Hz
+
+i)
+Val. pico = 1.000mv
+Val de pico a pico = 2.000mv
+Período: 2.000us
+Freq: 1/2.000Hz
+
+2-
+a)
+2 harmônica:
+x1: 1.000Hz
+y1: -36.250dBV
+
+3 harmônica: 
+x1: 1.5kHz
+y1: -55dBV
+
+b)
+2 harmônica:
+x1: 1.000Hz
+y1: -31.250dBV
+
+3 harmônica: 
+x1: 1.5kHz
+y1: -10.625dBV
+
+c)
+2 harmônica:
+x1: 1.000Hz
+y1: -13.750dBV
+
+3 harmônica: 
+x1: 1.5kHz
+y1: -18.125dBV
+
